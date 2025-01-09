@@ -1,0 +1,19 @@
+{
+  "name": "@flagbox/node-browser",
+  "version": "0.0.1",
+  "description": "FlagBox SDK for NodeJS and Web",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmaszkiewicz/flagbox-sdk-node-browser.git"
+  },
+  "author": "FlagBox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmaszkiewicz/flagbox-sdk-node-browser/issues"
+  },
+  "homepage": "https://github.com/mmaszkiewicz/flagbox-sdk-node-browser#readme"
+}
