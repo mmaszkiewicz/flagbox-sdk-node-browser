@@ -1,0 +1,16 @@
+{
+  "name": "@flagbox/browser-sdk",
+  "version": "0.0.1",
+  "description": "FlagBox SDK for the browser",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "test"
+  },
+  "author": "FlagBox",
+  "license": "MIT",
+  "homepage": "https://flagbox.io",
+  "publishConfig": {
+    "access": "public"
+  }
+}
